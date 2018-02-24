@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c:contact c:Version="1" xmlns:c="http://schemas.microsoft.com/Contact" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:MSP2P="http://schemas.microsoft.com/Contact/Extended/MSP2P">
+	<c:CreationDate>2018-02-24T06:19:20Z</c:CreationDate><c:Extended xsi:nil="true"/>
+	<c:ContactIDCollection><c:ContactID c:ElementID="eaeefb49-5b51-4c94-9a71-232f317970a4"><c:Value>c8b790ab-bce1-462c-afe5-4de8373a07cc</c:Value></c:ContactID></c:ContactIDCollection><c:NameCollection><c:Name c:ElementID="b7d908de-8f2b-42a4-b16b-c5fcd817f2e6"><c:NickName>阿凡达爱上</c:NickName><c:Title>阿斯顿发生的</c:Title><c:FormattedName>发生大幅 阿斯蒂芬啊发的发</c:FormattedName><c:FamilyName>发生大幅</c:FamilyName><c:GivenName>阿斯蒂芬啊发的发</c:GivenName></c:Name></c:NameCollection><c:PhotoCollection><c:Photo c:ElementID="67391d6a-c892-4880-b020-cee70fe567be"><c:LabelCollection><c:Label>UserTile</c:Label></c:LabelCollection></c:Photo></c:PhotoCollection></c:contact>
